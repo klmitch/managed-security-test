@@ -1,0 +1,2 @@
+include requirements.txt test-requirements.txt README.rst
+include test_*.py
